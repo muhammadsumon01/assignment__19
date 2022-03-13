@@ -1,0 +1,76 @@
+{
+  "devs": [
+    {
+      "method": "post",
+      "id": 9,
+      "name": "Asid Khan",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "skillId": "1",
+      "location": "Mirpur",
+      "age": "45",
+      "yearlyIncome": "1285"
+    },
+    {
+      "method": "post",
+      "id": 10,
+      "name": "Huzaifa Rahman",
+      "image": "https://images.unsplash.com/photo-1507081323647-4d250478b919?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "skillId": "3",
+      "location": "Shamoli",
+      "age": "34",
+      "yearlyIncome": "8000"
+    },
+    {
+      "method": "post",
+      "id": 11,
+      "name": "Arif Ahmed",
+      "image": "https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "skillId": "4",
+      "location": "America",
+      "age": "33",
+      "yearlyIncome": "6893"
+    },
+    {
+      "method": "post",
+      "id": 12,
+      "name": "Muhammad Faruk",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "skillId": "4",
+      "location": "Mirpur",
+      "age": "26",
+      "yearlyIncome": "1996"
+    },
+    {
+      "method": "post",
+      "id": 13,
+      "name": "Hasan Mahmud",
+      "image": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "skillId": "4",
+      "location": "Mirpur",
+      "age": "24",
+      "yearlyIncome": "3589"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "Php Dev"
+    },
+    {
+      "id": 2,
+      "name": "Python Dev"
+    },
+    {
+      "id": 3,
+      "name": "C# Dev"
+    },
+    {
+      "id": 4,
+      "name": "JS Dev"
+    },
+    {
+      "id": 5,
+      "name": "Java Dev"
+    }
+  ]
+}
